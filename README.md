@@ -1,7 +1,5 @@
 # Linux-and-Networking-Fundamentals
 
-# Linux and Networking Fundamentals
-
 A hands-on cybersecurity project demonstrating core Linux administration, networking concepts, information gathering techniques, Google Dorking, and Nmap reconnaissance.
 
 This repository documents practical exercises performed in a Linux environment using industry-standard commands and tools. The objective of this project is to strengthen the fundamental skills required for Security Operations Center (SOC), Vulnerability Assessment, Penetration Testing, and Cybersecurity Analyst roles.
